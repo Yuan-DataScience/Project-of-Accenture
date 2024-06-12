@@ -57,8 +57,3 @@ I was tasked with:
 ## Conclusion
 This project provided valuable insights into the client's social media platform, highlighting the most popular content and user activity trends. The analysis and recommendations helped the client prepare for their IPO and strategize their content management more effectively.
 
-For more details, please refer to the [GitHub repository](https://github.com/Yuan-DataScience/Project-of-Accenture) or contact me at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Feel free to reach out if you have any questions or need further information about this project.
